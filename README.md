@@ -1,16 +1,5 @@
-# buscador_gifs
+# Gif Finder
 
-meu buscador de gifs
+Esse é um app que gostei muito de fazer. Ele foi ótimo para começar a trabalhar com grid, quantidade de objetos reload para adicionar novos objetos e etc.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Este é um app onde vc pode buscar gif variados, seja pelos mais procurados (são os que aparecem caso nao haja busca) ou procurando algum específico fazendo a pesquina na barra de busca. Se gostar de algum gif, basta precionar em cima dele ou clicar para ver em tamanho maior e poder compartilhar com os amigos!
